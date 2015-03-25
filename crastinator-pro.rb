@@ -7,9 +7,12 @@ NONSTOP_TIME = 360
 counter = 1
 
 TIME_WASTER_APPS = [
-    /Safari/,
-    /Firefox/,
-    /Google Chrome/
+    /itunes/,
+    /preview/,
+    /Firefox/
+    /iphoto/
+    /dashboard/
+   
 ]
 
 PERMITTED_SITES = [
@@ -19,6 +22,7 @@ PERMITTED_SITES = [
    /united.com/,
    /arxiv.org/,
    /.pdf/
+  
 ]
 
 RESPONSES = [
@@ -32,6 +36,7 @@ RESPONSES = [
   "Be-beep!",
   "Stop it!",
   "Be-be-beep!"
+  "You are awesome?"
 ]
 
 VOICES = [
